@@ -7,7 +7,7 @@ const Home = {
         <div id="homeContent" class="content" tabindex="-1">
           <div id="hero" aria-labelledby="hero-desc">
             <picture>
-              <img src="../images/heros/hero-image_4.jpg" alt="Scenic view of a restaurant" id="hero-img" loading="lazy">
+              <img src="./images/heros/hero-image_4.jpg" alt="Scenic view of a restaurant" id="hero-img" loading="lazy">
             </picture>
             <div id="hero-layer">
               <p id="hero-desc" role="heading" aria-level="1">
