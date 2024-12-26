@@ -7,7 +7,7 @@
     "lib": ["es2018", "DOM"],
     "esModuleInterop": true,
     "module": "commonjs",
-    "strictNullChecks": false,
+    "strict": true,
     "types": ["codeceptjs", "node"],
     "declaration": true,
     "skipLibCheck": true

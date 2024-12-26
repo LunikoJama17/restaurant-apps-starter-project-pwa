@@ -34,8 +34,8 @@ module.exports = merge(common, {
       },
     },
     minimizer: [
-      `...`, // Menjaga minimizer default
-      new CssMinimizerPlugin(), // Menambahkan CSS Minimizer
+      `...`,
+      new CssMinimizerPlugin(),
     ],
   },
   plugins: [
